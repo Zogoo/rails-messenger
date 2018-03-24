@@ -1,6 +1,6 @@
 # README
 
-Rails 5 ActionCable for messenger application
+Rails 5 messenger application
 
 * Ruby version
 
