@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-password = 'test'
+password = 'password123'
 1.upto(5) do |index|
   User.create(
     email: "user-#{index}@example.com",
