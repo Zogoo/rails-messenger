@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Authentication
-gem 'devise', '~> 4.4', '>= 4.4.3'
+gem 'devise', '~> 4.7'
 # Client js
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 # bootstrap
